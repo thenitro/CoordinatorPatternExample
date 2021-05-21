@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/SharpCoordinatorPattern"]
+	path = Assets/Plugins/SharpCoordinatorPattern
+	url = https://github.com/thenitro/SharpCoordinatorPattern
